@@ -24,24 +24,24 @@ Para manter um ambiente consistente de desenvolvimento, é importante estar cien
 git clone https://github.com/evertonrichard/landing-page
 ```
 
-## Após clonar o repositório, entre na pasta do projeto:
+- Após clonar o repositório, entre na pasta do projeto:
 ```
 cd landing-page
 ```
 
-## Instale as dependências do projeto:
+- Instale as dependências do projeto:
 ```
 npm install
 ```
-## Inicie o JSON Server:
+- Inicie o JSON Server:
 ```
 npx json-server --watch db.json --port 5000 ou npm run backend
 ```
-## Inicie o servidor de desenvolvimento React:
+- Inicie o servidor de desenvolvimento React:
 ```
 npm start
 ```
-## Abra o projeto no navegador:
+- Abra o projeto no navegador:
 ```
 http://localhost:3000
 ```
