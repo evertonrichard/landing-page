@@ -1,0 +1,34 @@
+{
+    "cards": [
+      {
+        "id": 1,
+        "name": "Ricardo Silva",
+        "message": "Great service! Highly recommended."
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "message": "Awesome experience with the travel."
+      },
+      {
+        "id": 3,
+        "name": "Michael Brown",
+        "message": "Impressed by the quality and ease of use."
+      },
+      {
+        "id": 4,
+        "name": "Emily Johnson",
+        "message": "Couldn't be happier with my trip."
+      },
+      {
+        "id": 5,
+        "name": "Allison Wilson",
+        "message": "Fantastic customer support!"
+      },
+      {
+        "id": 6,
+        "name": "Charlorte Can",
+        "message": "The best."
+      }
+    ]
+  }

@@ -1,0 +1,63 @@
+body {
+    font-family: 'Wittgenstein', sans-serif;
+    color: #FFF;
+  }
+  
+.section2 {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: #1E1E1E;
+  }
+  
+.section2 .content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: auto 0;
+    padding: 30px;
+  }
+  
+.section2 .text-content {
+    flex: 1;
+    text-align: left;
+  }
+  
+.section2 .text-content .titulo {
+    margin-bottom: 20px;
+    color: #FFF;
+  }
+  
+.section2 .text-content .titulo h1 {
+    font-size: 40px;
+    color: #FFF;
+  }
+  
+.section2 .text-content .sub_titulo_card {
+    margin-bottom: 20px;
+  }
+  
+.section2 .text-content .sub_titulo_card h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #FFF;
+  }
+  
+.section2 .text-content .sub_titulo_card p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #FFF;
+  }
+  
+.section2 .image-content {
+    flex: 1;
+    text-align: center;
+  }
+  
+.section2 .image-content img {
+    max-width: 100%;
+    height: auto;
+    padding-left: 5em;
+  }
+  
